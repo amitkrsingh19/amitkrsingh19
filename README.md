@@ -41,8 +41,6 @@
 
 ### 🌟 Featured Projects
 
-### 🌟 Featured Projects
-
 | Project | Description | Stack |
 |---|---|---|
 | **AI Study Buddy** | LangGraph state-machine tutor with dual-layer (short + long term) memory via ChromaDB | LangGraph, ChromaDB, Ollama |
