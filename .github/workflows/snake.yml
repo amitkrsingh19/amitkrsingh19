@@ -21,7 +21,7 @@ jobs:
           github_user_name: amitkrsingh19
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FF69B4&color_dots=#3d1a26,#7a2e4d,#b8446f,#ff69b4,#ffb3d9
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FF69B4
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
